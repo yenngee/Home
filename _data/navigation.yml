@@ -31,6 +31,13 @@
 #   - title: "Portfolio"
 #     url: "/design/portfolio/"
 
+- title: Ramblings
+  url: "/blog/"
+  side: left
+#   dropdown:
+#   - title: "Blog Archive"
+#     url: "/blog/archive/"
+
 # - title: "Header Styles"
 #   url: "/headers/"
 #   side: left
@@ -59,12 +66,7 @@
 #   - title: "Roadmap"
 #     url: "/roadmap/"
 
-- title: Blog
-  url: "/blog/"
-  side: left
-#   dropdown:
-#   - title: "Blog Archive"
-#     url: "/blog/archive/"
+
 
 - title: "Search"
   url: "/search/"
