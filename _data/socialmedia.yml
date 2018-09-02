@@ -3,15 +3,16 @@
   class: icon-github
   title: "Code and projects..."
   
-- name: Email
-  url: ngyenngee@hotmail.com
-  class: icon-email
-  title: "Email"
-  
+
 - name: Linkedin
   url: https://www.linkedin.com/in/ng-yen-ngee/
   class: icon-linkedin
   title: "Linkedin"
+  
+- name: Email
+  url: ngyenngee@hotmail.com
+  class: icon-email
+  title: "Email"
 
 # - name: YouTube
 #   url: http://www.youtube.com/PhlowMedia
