@@ -76,6 +76,8 @@ exclude:
     - LICENSE
     - README.md
     - INSTALL.md
+    - /_data/services.yml
+    - /_data/network.yml
 
 
 # The language setting is used in /includes/header.html for html-settings
