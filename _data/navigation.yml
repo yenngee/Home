@@ -11,9 +11,9 @@
   side: left
   dropdown:
   - title: "Predicting HDB Prices"
-    url: "/hdb/"
+    url: "/portfolio/hdb/"
   - title: "Mini: Team Fifa"
-    url: "/fifa/"
+    url: "/portfolio/fifa/"
 #   - title: "Page/Post"
 #     url: "/design/page/"
 #   - title: "Post-Left-Sidebar"
