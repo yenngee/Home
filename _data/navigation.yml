@@ -3,7 +3,7 @@
   side: left
 
 - title: About Me
-  url: "/about-me/"
+  url: "/info/"
   side: left
 
 - title: "Portfolio"
@@ -11,9 +11,9 @@
   side: left
   dropdown:
   - title: "Predicting HDB Prices"
-    url: "/design/hdb/"
+    url: "/pages/hdb/"
   - title: "Mini: Team Fifa"
-    url: "/design/fifa/"
+    url: "/pages/fifa/"
 #   - title: "Page/Post"
 #     url: "/design/page/"
 #   - title: "Post-Left-Sidebar"
