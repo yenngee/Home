@@ -3,7 +3,7 @@ layout: page
 title:  "Predicting HDB Prices"
 subheadline:  "Capstone Project"
 teaser: "How much does a flat actually cost within the area? What factors contribute to the prices of HDBs and resale? Would the price of the flat I own rise in the future? These are questions that most Singaporeans face and what I hope to find insights in through my project"
-permalink: "/hdb/"
+permalink: "/portfolio/hdb/"
 categories:
     - portfolio
 tags:
