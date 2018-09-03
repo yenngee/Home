@@ -2,10 +2,10 @@
 layout: page
 title: "About me"
 subheadline: "Why data science?"
-teaser: "Me, myself and I plus whys: "
+teaser: "I am an aspiring data analyst, looking for opportunities to work with like-minded individuals in data science teams. With an unlikely background in Mathematics and Performing Arts, I am looking forward to combining my experience with my newfound skills to help businesses make educated decisions through analysing data."
 permalink: "/info/"
 header:
-    image_fullwidth: "header_drop.jpg"
+    image_fullwidth: "about_me_header.jpg"
 ---
 
 ## Who am I.... 
@@ -31,7 +31,7 @@ I decided to go through an intensive period of studying Data Science in a Data S
 I am currently seeking for career opportunities in data science related positions as well. If you are keen for a discussion, I can be contacted via LinkedIn or the [‘Contact Me’][1] page.
 
 
- [1]: {{ site.url }}/contact/
+ [1]: {{ site.url }}/datasciencing/contact/
  [2]: http://mademistakes.com/work/jekyll-themes/
  [3]: http://automattic.com/
  [4]: http://alistapart.com/
