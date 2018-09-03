@@ -7,13 +7,13 @@
   side: left
 
 - title: "Portfolio"
-  url: "/Portfolio/"
+  url: "/portfolio/"
   side: left
   dropdown:
   - title: "Predicting HDB Prices"
-    url: "/pages/hdb/"
+    url: "/portfolio/hdb/"
   - title: "Mini: Team Fifa"
-    url: "/pages/fifa/"
+    url: "/portfolio/fifa/"
 #   - title: "Page/Post"
 #     url: "/design/page/"
 #   - title: "Post-Left-Sidebar"
