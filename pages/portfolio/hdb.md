@@ -38,10 +38,6 @@ G) Production
 
 HDB stands for Housing Development Board, and it is a government board that is in charge of public housing in Singapore
 
-image:
-    title: hdb_timeline.jpeg
-    caption: History of HDBs
-
 <div class="row t60">
     <div class="medium-6 columns b30">
         <img src="{{ site.urlimg }}hdb_timeline.jpeg" alt="">
