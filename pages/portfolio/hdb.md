@@ -14,7 +14,7 @@ tags:
   
 header:
     image_fullwidth: "hdb_header.jpg"
-    caption: This is a caption for the header image with link
+    caption: HDB at Clementi
 
 ---
 
