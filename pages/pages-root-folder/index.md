@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: Data_Sciencing_header.jpg
+  image_fullwidth: Data_Sciencing_header.png
 widget1:
   title: "About Me"
   url: 'https://yenngee.github.io/datasciencing/info/'
