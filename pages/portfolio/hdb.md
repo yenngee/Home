@@ -42,6 +42,13 @@ image:
     title: hdb_timeline.jpeg
     caption: History of HDBs
 
+<div class="row t60">
+    <div class="medium-6 columns b30">
+        <img src="{{ site.urlimg }}hdb_timeline.jpeg" alt="">
+        <p> History of HDBs </p>
+    </div><!-- /.medium-6.columns -->
+</div><!-- /.row -->
+
 ## B) Dataset 
 ## C) Approach 
 ## D) EDA
