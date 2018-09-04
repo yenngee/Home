@@ -36,17 +36,40 @@ G) Production
 
 ## A) Background information 
 
-HDB stands for Housing Development Board, and it is a government board that is in charge of public housing in Singapore
+HDBs! What are HDBs? For non-Singaporeans, this may be a foreign term. HDB actually stands for Housing Development Board, and it is a government board that is in charge of public housing in Singapore. How did HDB even started, well to answer that let us go through the Timeline of History of HDBs: 
+<img src="{{ site.urlimg }}hdb_timeline.JPG" >
 
-<img src="{{ site.urlimg }}hdb_timeline.jpg" >
+In 1950s, Singapore was having a housing crisis. Many people were living in unhygienic slums and crowded squatter settlements. Only 9% of Singaporeans lived in government flats. In 1959, the government pledged to build public housing for the poor. This brought to the formation of Housing Development Board (HDB) in 1960. HDB sprang into action, within a brief span of 10 years, HDB built a sufficient number of flats for Singaporeans and resolved the housing crisis. By the time it hit mid 1960s, 5-room flats were introduced to accomodate the large families we had. 
+
+In the late 1960s, Fearing that Singapore's growing population might overburden the developing economy, the government started a vigorous Stop at Two family planning campaign. At the same time, public housing growth continued to grow. The growth was so great that supply of public housing outstripped demand in the 1970s. 
+
+In 1980s, the focus turned to feature improvements such as covered walkways to bus stops, blocks completed had lifts stopping one every  floor, multi-story car parks etc. 
+En Bloc Scheme started in 1995
 
 ## B) Dataset 
+The dataset that I found was 
+
+<img src="{{ site.urlimg }}hdb_data.png" >
+https://data.gov.sg/dataset/resale-flat-prices
+https://data.gov.sg/dataset/price-range-of-hdb-flats-offered 
+
+
 ## C) Approach 
+
+
 ## D) EDA
+
+
 ## E) Modelling 
 ###    i) Regression on the 'variance' 
+
+
 ###   ii) Time Series Analysis on the 'mean' 
+
+
 ## F) Evaluation and Limitations 
+
+For resale prices 
 ## G) Production 
 
 ~~~
