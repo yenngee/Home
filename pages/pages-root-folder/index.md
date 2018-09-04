@@ -11,7 +11,7 @@ widget1:
   title: "About Me"
   url: 'https://yenngee.github.io/datasciencing/info/'
   image: widget-1-302x182.jpg
-  text: 'I am an aspiring data analyst, looking for opportunities to work with like-minded individuals in data science teams. With an unlikely background in Mathematics and Performing Arts, I am looking forward to combining my experience with my newfound skills to help businesses make educated decisions through analysing data.'
+  text: 'I am an aspiring data analyst...'
 widget2:
   title: "Portfolio"
   url: 'https://yenngee.github.io/datasciencing/portfolio/'
