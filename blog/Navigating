@@ -1,0 +1,17 @@
+
+24 October 2018 
+
+The awesome part about Jupyter Notebook is that it can keep notes and code within the same document which explains things very clearly. What I really like about this is that you are also able to add a navigation bar, something like a content page at the side similar to what you have in a PDF file. 
+I tried seraching 
+
+
+Command prompt
+
+
+pip install autopep8
+pip install jupyter_contrib_nbextensions 
+pip install jupyter_nbextensions_configurator 
+jupyter contrib nbextension install --user 
+jupyter nbextensions_configurator enable 
+
+Kudos to my ex-classmate Brian, who is terribly good at formatting and cannot stand untidy documents. :) 
